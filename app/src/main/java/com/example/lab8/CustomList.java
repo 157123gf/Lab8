@@ -62,4 +62,17 @@ public class CustomList extends ArrayAdapter<City> {
         return false;
     }
 
+    public  void  delete(City city){
+        
+
+    }
+
+    /**
+     * count the number of objects in the list
+     * @return int
+     */
+    public int countCities(){
+
+    }
+
 }
