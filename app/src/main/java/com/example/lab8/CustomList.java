@@ -72,7 +72,7 @@ public class CustomList extends ArrayAdapter<City> {
      * @return int
      */
     public int countCities(){
-        
+        return this.cities.size();
     }
 
 }
